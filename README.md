@@ -21,3 +21,6 @@ Autonomous Software Stack for Rover functionality
 ![Alt text](no4.png)
 5) The bot reaches the goal state with some Goal Tolerance.
 ![Alt text](no5.png)
+
+
+The corresponding codes have been tested in real-time bot and has been documented in the same github page.
